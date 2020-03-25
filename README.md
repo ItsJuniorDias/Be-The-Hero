@@ -1,6 +1,6 @@
 # Be-The-Hero
 
-# Week Omnistack #11 | Rocketseat
+## Week Omnistack #11 | Rocketseat
  - Development of an application using the stack *Node.js*, *ReactJS* e *React Native*
  
 ## About this Project

@@ -13,7 +13,7 @@ export default function Login() {
         <img src={logoImg} alt="Logo" />
 
         <form> 
-          <h1>Faça seu Login</h1>
+          <h1>Faça seu login</h1>
 
           <input placeholder="Sua ID" />
           <button type="submit">Entrar</button>

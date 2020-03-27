@@ -14,6 +14,12 @@ This project is part of my portfolio, so, I'll be happy if you could provide me 
 
 Email-me: juniordias_@live.com;
 
+## Backend 
+### Configuration
+
+- Configuration **Express** , a microframework that deals with routes, requests and responses;
+- Configuration **nodemon** to monitor code changes and restart the server automatically when changes occur;
+
 ## Frontend
 
 ### Configuration

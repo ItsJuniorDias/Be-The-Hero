@@ -13,3 +13,9 @@ _"Helping people with some kind of action"._
 This project is part of my portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
 Email-me: juniordias_@live.com;
+
+## Frontend
+
+### Configuration
+  - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually;
+  - Configuration of **axios** to make the request to the database;

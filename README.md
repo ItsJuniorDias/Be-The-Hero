@@ -5,6 +5,10 @@
  
 ### Login
 ![Login](https://user-images.githubusercontent.com/50254416/77838083-b5cd4700-7146-11ea-9c12-c891961edea1.png)
+
+### Register
+![Register](https://user-images.githubusercontent.com/50254416/77838097-e4e3b880-7146-11ea-96c8-95ea75cfa46c.png)
+
  
 ## About this Project
 

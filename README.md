@@ -25,6 +25,7 @@
 ![Register](https://user-images.githubusercontent.com/50254416/77838097-e4e3b880-7146-11ea-96c8-95ea75cfa46c.png)
 
 ### Showing Incidents 
+![cats](https://user-images.githubusercontent.com/50254416/78391148-31eae300-75bc-11ea-8c16-da663459d4c6.jpg)
 
 ### Register Ongs 
 ![cats4](https://user-images.githubusercontent.com/50254416/78391155-36170080-75bc-11ea-8f33-b0abf503661c.jpg)

@@ -9,7 +9,7 @@
   #### Complete application to connect NGOs who need help to users willing to help
 
 
-  ![](https://img.shields.io/badge/autor-Junior%20Dias-brightgreen)
+  ![](https://img.shields.io/badge/author-Junior%20Dias-brightgreen)
   ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
   ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
   ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)

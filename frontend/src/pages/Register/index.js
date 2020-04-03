@@ -14,8 +14,24 @@ export default function Register() {
   const [city, setCity] = useState('');
   const [uf, setUf] = useState('');
 
-  function handleRegister(event) {
+  async function handleRegister(event) {
     event.preventDefault();
+
+    const data = {
+      name,
+      email,
+      whatsapp,
+      city,
+      uf,
+    };
+    
+    try {
+    const response = await api.post('ongs', data);
+
+    alert(`Seu ID de acesso: ${response.data.id}`);
+    } catch(err) {
+      alert('Erro no cadastro , tente novamente.');
+    }
   }
 
   return (
@@ -42,12 +58,30 @@ export default function Register() {
            value={name}
            onChange={event => setName(event.target.value)}
            />
-          <input type="email" placeholder="E-mail" />
-          <input placeholder="WhatsApp" />
+          <input 
+           type="email" 
+           placeholder="E-mail" 
+           value={email}
+           onChange={event => setEmail(event.target.value)}
+           />
+          <input 
+           placeholder="WhatsApp" 
+           value={whatsapp}
+           onChange={event => setWhatsapp(event.target.value)}
+           />
            
            <div className="input-group"> 
-             <input placeholder="Cidade" />
-             <input placeholder="UF" style={{ width: 80 }} />
+             <input 
+             placeholder="Cidade" 
+             value={city}
+             onChange={event => setCity(event.target.value)}
+             />
+             <input 
+             placeholder="UF" 
+             style={{ width: 80 }}
+             value={uf}
+             onChange={event => setUf(event.target.value)}
+             />
            </div>
 
            <button className="button" type="submit">Cadastrar </button>

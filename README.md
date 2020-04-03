@@ -9,7 +9,7 @@
   #### Aplicação completa para conectar Ongs que precisam de ajuda a usuários dispostos a ajudar
 
 
-  ![](https://img.shields.io/badge/autor-Maykon%20Sousa-brightgreen)
+  ![](https://img.shields.io/badge/autor-Junior%20Dias-brightgreen)
   ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
   ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
   ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)

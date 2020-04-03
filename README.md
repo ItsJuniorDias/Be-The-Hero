@@ -1,4 +1,4 @@
-# Be-The-Hero 🦸‍♂️
+
 
 <div align="center">
   <img src="./frontend/src/assets/logo.svg" height="100px" alt="Be the hero"/>

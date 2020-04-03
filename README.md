@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  #### Aplicação completa para conectar Ongs que precisam de ajuda a usuários dispostos a ajudar
+  #### Complete application to connect NGOs who need help to users willing to help
 
 
   ![](https://img.shields.io/badge/autor-Junior%20Dias-brightgreen)
@@ -21,9 +21,13 @@
 ### Login
 ![Login](https://user-images.githubusercontent.com/50254416/77838083-b5cd4700-7146-11ea-9c12-c891961edea1.png)
 
-### Register
+### Register User
 ![Register](https://user-images.githubusercontent.com/50254416/77838097-e4e3b880-7146-11ea-96c8-95ea75cfa46c.png)
 
+### Showing Incidents 
+
+### Register Ongs 
+![cats4](https://user-images.githubusercontent.com/50254416/78391155-36170080-75bc-11ea-8f33-b0abf503661c.jpg)
  
 ## About this Project
 

@@ -1,4 +1,19 @@
-# Be-The-Hero 🦸‍♂️
+
+
+<div align="center">
+  <img src="./frontend/src/assets/logo.svg" height="100px" alt="Be the hero"/>
+</div>
+
+<div align="center">
+
+  #### Complete application to connect NGOs who need help to users willing to help
+
+
+  ![](https://img.shields.io/badge/author-Junior%20Dias-/?color=e02041)
+  ![](https://img.shields.io/badge/Back--End-NodeJS-/?color=e02041)
+  ![](https://img.shields.io/badge/Front--End-ReactJS-/?color=e02041)
+  ![](https://img.shields.io/badge/Mobile-React%20Native-/?color=e02041)
+</div> 
 
 ## Week Omnistack #11 | Rocketseat
  - Development of an application using the stack *Node.js*, *ReactJS* e *React Native*
@@ -6,9 +21,14 @@
 ### Login
 ![Login](https://user-images.githubusercontent.com/50254416/77838083-b5cd4700-7146-11ea-9c12-c891961edea1.png)
 
-### Register
+### Register User
 ![Register](https://user-images.githubusercontent.com/50254416/77838097-e4e3b880-7146-11ea-96c8-95ea75cfa46c.png)
 
+### Showing Incidents 
+![cats](https://user-images.githubusercontent.com/50254416/78391148-31eae300-75bc-11ea-8c16-da663459d4c6.jpg)
+
+### Register Ongs 
+![cats4](https://user-images.githubusercontent.com/50254416/78391155-36170080-75bc-11ea-8f33-b0abf503661c.jpg)
  
 ## About this Project
 

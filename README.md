@@ -9,10 +9,10 @@
   #### Complete application to connect NGOs who need help to users willing to help
 
 
-  ![](https://img.shields.io/badge/author-Junior%20Dias-brightred)
-  ![](https://img.shields.io/badge/Back--End-NodeJS-brightred)
-  ![](https://img.shields.io/badge/Front--End-ReactJS-brightred)
-  ![](https://img.shields.io/badge/Mobile-React%20Native-brightred)
+  ![](https://img.shields.io/badge/author-Junior%20Dias-brighred)
+  ![](https://img.shields.io/badge/Back--End-NodeJS-brighred)
+  ![](https://img.shields.io/badge/Front--End-ReactJS-brighred)
+  ![](https://img.shields.io/badge/Mobile-React%20Native-brighred)
 </div> 
 
 ## Week Omnistack #11 | Rocketseat

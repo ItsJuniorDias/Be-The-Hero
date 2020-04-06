@@ -58,6 +58,7 @@ Email-me: juniordias_@live.com;
 ### Configuration
   - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually;
   - Configuration of **axios** to make the request to the database;
+  - Using **React Icons** for image styles. 
   
   **Cloning the Repository**
 

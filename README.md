@@ -60,6 +60,13 @@ Email-me: juniordias_@live.com;
   - Configuration of **axios** to make the request to the database;
   - Using **React Icons** for image styles. 
   
+## Mobile 
+
+### Configuration
+  - Using **Expo-CLI** for build app. 
+
+  
+  
   **Cloning the Repository**
 
 ```

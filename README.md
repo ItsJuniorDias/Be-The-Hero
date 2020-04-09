@@ -63,10 +63,9 @@ Email-me: juniordias_@live.com;
 ## Mobile 
 
 ### Configuration
-  - Using **Expo-CLI** for build app. 
-
+  - Using **Expo-CLI** for build app.  
   
-  
+ 
   **Cloning the Repository**
 
 ```

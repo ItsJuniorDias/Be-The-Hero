@@ -63,7 +63,8 @@ Email-me: juniordias_@live.com;
 ## Mobile 
 
 ### Configuration
-  - Using **Expo-CLI** for build app.  
+  - Using **Expo-CLI** for build app.
+  - Using **React-navigation** for tratment navigation.
   
  
   **Cloning the Repository**

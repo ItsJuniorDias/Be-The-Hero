@@ -49,9 +49,9 @@ Email-me: juniordias_@live.com;
 
 ### Instructions for running the backend
 
-- After cloning the repository, enter the backend folder and run the npm install command. It is a package manager that will download the project's dependencies.
-- After downloading all the dependencies, still inside the backend folder. This command is a shortcut to npx knex migrate: latest, which will perform the migrations responsible for creating the tables in the database.
-- With the tables created, run npm start to boot the server.
+- After cloning the repository, enter the backend folder and run the **npm install** command. It is a package manager that will download the project's dependencies.
+- After downloading all the dependencies, still inside the backend folder. This command is a shortcut to **npx knex migrate: latest**, which will perform the migrations responsible for creating the tables in the database.
+- With the tables created, run **npm start** to boot the server.
 
 ## Frontend
 

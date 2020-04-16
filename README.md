@@ -65,7 +65,7 @@ Email-me: juniordias_@live.com;
 ### Configuration
   - Using **Expo-CLI** for build app.
   - Using **React-navigation** for tratment navigation.
-  
+  - Using **Flat-list** to assemble Infinite Scroll.
  
   **Cloning the Repository**
 
@@ -96,3 +96,4 @@ $ npm start
 $ cd frontend
 $ yarn start
 ```
+

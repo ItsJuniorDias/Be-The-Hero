@@ -90,10 +90,17 @@ $ npm start
 ```
 -Leave running the backend and run the front after mobile.
 
-**FrontEnd**
+**Frontend**
 
 ```
 $ cd frontend
+$ yarn start
+```
+
+**Mobile**
+
+```
+$ cd mobile
 $ yarn start
 ```
 

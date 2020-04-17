@@ -66,6 +66,7 @@ Email-me: juniordias_@live.com;
   - Using **Expo-CLI** for build app.
   - Using **React-navigation** for tratment navigation.
   - Using **Flat-list** to assemble Infinite Scroll.
+  - Using **React-router-dom** for tratment routes.
  
   **Cloning the Repository**
 

@@ -18,10 +18,14 @@ routes.post('/ongs', celebrate({
     whatsapp: Joi.number().required().min(10).max(11),
     city: Joi.string().required(),
     uf: Joi.string().required().length(2),
-  })
+  }),
 }),OngController.create );
 
-routes.get('/profile', ProfileController.index);
+routes.get('/profile', celebrate({
+  [Segments.HEADERS]: Joi.object({
+    authorization: Joi.string().required(),
+  }).unknown(),
+}),ProfileController.index);
 
 routes.get('/incidents', IncidentsController.index);
 routes.post('/incidents', IncidentsController.create);
